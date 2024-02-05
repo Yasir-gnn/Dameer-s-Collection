@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795692799594",
+    "project_id": "dameer-s-collection",
+    "storage_bucket": "dameer-s-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795692799594:android:1702ea5de0e65a30fe5c13",
+        "android_client_info": {
+          "package_name": "com.example.dameer_collection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdPT5vI0Nf-kuIrBCk-QVpwUIzqExxBEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
